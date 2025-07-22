@@ -3,9 +3,9 @@ import random
 import tkinter as tk
 from tkinter import messagebox,Label,Entry,Grid
 
-sender = ""
-receiver = ""
-password = ""
+sender = " " #sender email address
+receiver = " " #receiver email address
+password = " " #sender password
 OTP = random.randint(1000,9999)
 
 def check() :  
