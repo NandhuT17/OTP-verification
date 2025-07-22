@@ -16,4 +16,4 @@ Contributing :
     *Writing documentation (README.md)
 
 Screenshot : 
-  <img width="1919" height="1199" alt="Screenshot" src="https://github.com/user-attachments/assets/5875e6b1-de00-47c7-a12c-3dea803a01a5" />
+ <img width="1919" height="1199" alt="Screenshot 2025-07-22 230941" src="https://github.com/user-attachments/assets/d5135c33-b898-4be5-b144-379055da3947" />
